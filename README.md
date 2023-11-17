@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm **Zheng Li** (Chinese: **李征**), you can also call me **Jonathan Lee**, whichever you prefer.
+I'm **Jonathan Lee**
 
 - 😄 Pronouns: **He/Him**
 - 🌱 I’m currently learning [`Rust`](https://www.rust-lang.org/) 🦀.
@@ -22,23 +22,6 @@ I'm **Zheng Li** (Chinese: **李征**), you can also call me **Jonathan Lee**, w
     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-ZhengLi&layout=compact&theme=tokyonight" />
 </p>
 </br>
-
-## What I do on my free time 🕑
-
-- Play [Beat Saber](https://beatsaber.com/) ⚔️
-
-- Play Flight Sims ✈️ (Microsoft Flight Simulator 2020)
-
-- Drawing 🖌️
-
-- Programming 🖥️
-
-<details>
-<summary>secret</summary>
-
-- Watching V-tubers 😖 (My new oshi(s): <img height="50px" src="https://static.miraheze.org/hololivewiki/thumb/0/07/Fuwamoco.png/450px-Fuwamoco.png">)
-
-</details>
 
 
 ## Contact me
