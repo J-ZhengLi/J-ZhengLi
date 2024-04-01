@@ -2,6 +2,12 @@
     <h1 align="center"> Hello there 👋</h1>
 </p>
 
+I'm Jonathan, also a:
+
+- Programmer 💻
+- Casual anime enjoyer
+- ~~Child stuck in adult's body~~
+
 ## GitHub Stats
 
 </br>
