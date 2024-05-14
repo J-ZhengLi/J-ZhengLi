@@ -5,15 +5,23 @@
 I'm Jonathan, also a:
 
 - Programmer 💻
-- Casual anime enjoyer
-- ~~Child stuck in adult's body~~
+- Casual anime enjoyer.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/J-ZhengLi/J-ZhengLi/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
 
 ## GitHub Stats
 
 </br>
 <p align="center">
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=J-ZhengLi&show_icons=true&include_all_commits=true&theme=tokyonight" />
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-ZhengLi&layout=compact&theme=tokyonight" />
+    <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=J-ZhengLi&show_icons=true&include_all_commits=true&theme=tokyonight" />
+</p>
+<p align="center">
+    <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-ZhengLi&theme=tokyonight" />
+</p>
+<p align='center'>
+  <img align="center" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=J-ZhengLi&show_icons=true&theme=tokyonight">
 </p>
 </br>
 

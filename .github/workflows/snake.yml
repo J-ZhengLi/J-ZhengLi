@@ -2,9 +2,8 @@ name: CI
 
 # Controls when the workflow will run
 on:
-  # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */48 * * *" 
 
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
