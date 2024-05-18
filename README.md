@@ -1,29 +1,29 @@
 <p align="center">
-    <h1 align="center"> Hello there 👋</h1>
+    <h1 align="center">Hello there 👋</h1>
 </p>
 
-I'm Jonathan, also a:
+![viewcounter](https://komarev.com/ghpvc/?username=J-ZhengLi)
+
+### I'm Jonathan, also a:
 
 - Programmer 💻
+- Clippy contributor 🦀
 - Casual anime enjoyer.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/J-ZhengLi/J-ZhengLi/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
+### I love music! 🎧
+I listen to whatever Spotify's algorithm throws me:
+
+<img height="320em" src="https://spotify-github-profile.vercel.app/api/view?uid=u78vn9wtr708s42u4ubq72odn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"></center>
 
 ## GitHub Stats
 
-</br>
 <p align="center">
-    <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=J-ZhengLi&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img height="225em" src="https://raw.githubusercontent.com/J-ZhengLi/J-ZhengLi/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 <p align="center">
-    <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-ZhengLi&theme=tokyonight" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=J-ZhengLi&show_icons=true&include_all_commits=true&theme=tokyonight" />
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=J-ZhengLi&show_icons=true&theme=tokyonight">
 </p>
-<p align='center'>
-  <img align="center" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=J-ZhengLi&show_icons=true&theme=tokyonight">
-</p>
-</br>
 
 
 ## Contact me
