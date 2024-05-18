@@ -18,11 +18,11 @@ I listen to whatever Spotify's algorithm throws me:
 ## GitHub Stats
 
 <p align="center">
-  <img height="225em" src="https://raw.githubusercontent.com/J-ZhengLi/J-ZhengLi/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+  <img width="96%" src="https://raw.githubusercontent.com/J-ZhengLi/J-ZhengLi/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 <p align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=J-ZhengLi&show_icons=true&include_all_commits=true&theme=tokyonight" />
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=J-ZhengLi&show_icons=true&theme=tokyonight">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=J-ZhengLi&show_icons=true&include_all_commits=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=J-ZhengLi&show_icons=true&theme=tokyonight">
 </p>
 
 
