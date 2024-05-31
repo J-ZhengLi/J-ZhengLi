@@ -20,7 +20,16 @@ I listen to whatever Spotify's algorithm throws me:
 #### Games! 🎮
 
  <!-- steam-box start -->
- <!-- steam-box end -->
+🎮 Steam playtime leaderboard
+```text
+🔫 Counter-Strike 2                 🕘 1692 hrs 25 mins
+🚓 Grand Theft Auto V               🕘 860 hrs 24 mins
+🎮 Monster Hunter: World            🕘 477 hrs 17 mins
+🛩️ Microsoft Flight Simulator       🕘 384 hrs 45 mins
+🎮 Tom Clancy's The Division        🕘 318 hrs 47 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
 
 ## GitHub Stats
 
