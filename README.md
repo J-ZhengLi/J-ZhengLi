@@ -10,10 +10,17 @@
 - Clippy contributor 🦀
 - Casual anime enjoyer.
 
-### I love music! 🎧
+### Hobbies
+
+#### Musics! 🎧
 I listen to whatever Spotify's algorithm throws me:
 
 <img height="320em" src="https://spotify-github-profile.vercel.app/api/view?uid=u78vn9wtr708s42u4ubq72odn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"></center>
+
+#### Games! 🎮
+
+ <!-- steam-box start -->
+ <!-- steam-box end -->
 
 ## GitHub Stats
 
