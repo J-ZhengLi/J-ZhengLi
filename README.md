@@ -22,7 +22,7 @@ I listen to whatever Spotify's algorithm throws me:
  <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🔫 Counter-Strike 2                 🕘 1692 hrs 25 mins
+🔫 Counter-Strike 2                 🕘 1699 hrs 29 mins
 🚓 Grand Theft Auto V               🕘 860 hrs 24 mins
 🎮 Monster Hunter: World            🕘 477 hrs 17 mins
 🛩️ Microsoft Flight Simulator       🕘 416 hrs 36 mins
