@@ -55,8 +55,8 @@
   <img src="https://raw.githubusercontent.com/J-ZhengLi/J-ZhengLi/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </div></br>
 <div align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=J-ZhengLi&show_icons=true&include_all_commits=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=J-ZhengLi&show_icons=true&theme=tokyonight">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=J-ZhengLi&show_icons=true&include_all_commits=true&show=reviews&theme=codeSTACKr&bg_color=000000" />
+    <img width="45%" src="https://streak-stats.demolab.com/?user=J-ZhengLi&theme=rust-ferris-dark&hide_border=true&card_height=232px">
 </div>
 
 <div id="toc">
