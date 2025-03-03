@@ -71,7 +71,7 @@
 🎮 Steam playtime leaderboard
 ```text
 🔫 Counter-Strike 2                 🕘 1708 hrs 46 mins
-🚓 Grand Theft Auto V               🕘 860 hrs 24 mins
+🚓 Grand Theft Auto V Legacy        🕘 860 hrs 24 mins
 🎮 Monster Hunter: World            🕘 477 hrs 17 mins
 🛩️ Microsoft Flight Simulator       🕘 416 hrs 36 mins
 🎮 Tom Clancy's The Division        🕘 318 hrs 47 mins
