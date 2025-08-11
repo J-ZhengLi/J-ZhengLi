@@ -73,7 +73,7 @@
 🔫 Counter-Strike 2                 🕘 1708 hrs 46 mins
 🚓 Grand Theft Auto V Legacy        🕘 860 hrs 24 mins
 🎮 Monster Hunter: World            🕘 477 hrs 17 mins
-🛩️ Microsoft Flight Simulator (2020) 🕘 417 hrs 35 mins
+🛩️ Microsoft Flight Simulator (2020) 🕘 420 hrs 45 mins
 🎮 Tom Clancy's The Division        🕘 318 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
