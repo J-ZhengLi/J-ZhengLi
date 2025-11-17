@@ -70,7 +70,7 @@
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🔫 Counter-Strike 2                 🕘 1708 hrs 46 mins
+🔫 Counter-Strike 2                 🕘 1713 hrs 24 mins
 🚓 Grand Theft Auto V Legacy        🕘 860 hrs 24 mins
 🎮 Monster Hunter: World            🕘 477 hrs 17 mins
 🛩️ Microsoft Flight Simulator (2020) 🕘 420 hrs 45 mins
